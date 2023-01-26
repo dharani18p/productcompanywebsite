@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To design a static website for a software product company company.
+To design a website for a  product company company.
 
 ## DESIGN STEPS:
 
@@ -40,7 +40,13 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](./static/images/out1.png)
+![output](./static/images/out2.png)
+![output](./static/images/out3.png)
+![output](./static/images/out4.png)
+
+### validator page
+![html validator](./static/images/validator.png)
 
 ## Result:
 
