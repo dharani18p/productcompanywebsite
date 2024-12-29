@@ -1,39 +1,5 @@
 # Web Design for a Software Product Company
 
-## AIM:
-
-To design a website for a  product company company.
-
-## DESIGN STEPS:
-
-### Step 1:
-
-Requirement collection.
-
-### Step 2:
-
-Creating the layout using HTML and CSS.
-
-### Step 3:
-
-Updating the sample content.
-
-### Step 4:
-
-Choose the appropriate style and color scheme.
-
-### Step 5:
-
-Validate the layout in various browsers.
-
-### Step 6:
-
-Validate the HTML code.
-
-### Step 6:
-
-Publish the website in the given URL.
-
 ## PROGRAM :
 home.html
 ```
@@ -592,6 +558,7 @@ contact.html
 </html>
 ```
 
+
 ## OUTPUT:
 
 ### Home Page:
@@ -614,6 +581,9 @@ contact.html
 ### validator page
 ![html validator](./images/vali.png)
 
-## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+## DESCRIPTION:
+
+The Product Company Website is a professional platform designed to showcase the products and services of a software company. It features a responsive and user-friendly layout, built using HTML and CSS, to provide an engaging experience for visitors. The site includes sections for product highlights, company information, and contact details, ensuring seamless navigation. Its clean design emphasizes clarity and accessibility, making it an effective tool for promoting the company’s offerings. Ideal for establishing a strong online presence, this website captures the essence of modern web design principles.
+
+
